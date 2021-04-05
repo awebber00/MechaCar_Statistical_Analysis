@@ -6,7 +6,7 @@
 For this analysis we use statistics and hypothesis testing to analyze a series of datasets from the automotive industry. It includes visualizations, statistical tests, and a summarization of the results. We utilize the R programming language to deliver all of our statistical analyses and visualizations specifically for the upcoming Mechacar launch.
 
 ## Resources  
-- **Data Source:** [demo.csv](), [demo.json](), [demo2.csv](), [mpg_modified](), [used_car_data](), [Vehicle_Data](), [MechaCar_mpg.csv](), [Suspension_coil.csv]() 
+- **Data Source:** [MechaCar_mpg.csv](), [Suspension_coil.csv](), [MechaCarChallenge.R]()
 - **Software:** R, RStudio, Rtools
 
 ## Challenge Objectives
