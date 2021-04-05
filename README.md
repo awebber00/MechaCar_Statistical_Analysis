@@ -33,5 +33,5 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 
 ![Vehicle_Length](Resources/Vehicle_Length.png)
 
-![Vehicle_Height](Resources/Vehicle_Height.png)
+![Vehicle_Weight](Resources/Vehicle_Weight.png)
 
