@@ -23,3 +23,15 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 ![Linear_Regression_Output_1](Resources/Linear_Regression_1.png)
 
 ![Linear_Regression_Output_2](Resources/Linear_Regression_2.png)
+
+
+![All_Wheel_Drive](Resources/AWD.png)
+
+![Ground_Clearance](Resources/Ground_Clearance.png)
+
+![Spoiler_Angle](Resources/Spoiler_Angle.png)
+
+![Vehicle_Length](Resources/Vehicle_Length.png)
+
+![Vehicle_Height](Resources/Vehicle_Height.png)
+
