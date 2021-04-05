@@ -9,7 +9,7 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 - **Data Source:** [demo.csv](), [demo.json](), [demo2.csv](), [mpg_modified](), [used_car_data](), [Vehicle_Data](), [MechaCar_mpg.csv](), [Suspension_coil.csv]() 
 - **Software:** R, RStudio, Rtools
 
-## Objectives
+## Challenge Objectives
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 - Is the slope of the linear model considered to be zero? Why or why not?
@@ -17,3 +17,9 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 
 
 ## Linear Regression to Predict MPG
+
+
+
+![Linear_Regression_Output_1](Resources/Linear_Regression_1.png)
+
+![Linear_Regression_Output_2](Resources/Linear_Regression_2.png)
