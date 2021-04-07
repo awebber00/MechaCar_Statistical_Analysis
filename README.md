@@ -51,3 +51,9 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 ![Lot_2](Resources/Lot_2.png)
 
 ![Lot_3](Resources/Lot_3.png)
+
+![Population_Table](Population_Table.png)
+
+## T-Test Summary
+
+The conclusion of the T-Tests on the suspension coils shows us that there is no significant difference in the output that require any extreme callouts for our analysis.
