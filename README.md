@@ -57,3 +57,14 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 ## T-Test Summary
 
 The conclusion of the T-Tests on the suspension coils shows us that there is no significant difference in the output that require any extreme callouts for our analysis.
+
+
+## Study Design: MechaCar Vs. Competition
+
+What consumers would be most concerned about is how the MechaCar stacks up against what is already available in the automotive marketplace. They would be concenred most about safety, fuel efficiency, styling & extra features, space and comfort inside the vehicle, and initial cost as well as maintenance cost. These features, metrics and amenities are what consumers care the most about when considering purchasing a car and the MechaCar has to stack up well against the competition when it comes to delivering.
+
+We would test how safe the MechaCar is versus the compatition. Our null hypothesis would be to find out whether or not the MechaCar is safer than the competition when it comes to crash tests and crumple zone strength & reliability.
+
+We would use T-Tests to test the hypothesis and guage whether or not the metrics were better in the MechaCar vs. the competition.
+
+The data that we would need to run these tests would be the historical crash test data of the competition and recent crash testing that was performed with the MechaCar.
