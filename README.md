@@ -52,7 +52,7 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 
 ![Lot_3](Resources/Lot_3.png)
 
-![Population_Table](Population_Table.png)
+![Population_Table](Resources/Population_Table.png)
 
 ## T-Test Summary
 
