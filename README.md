@@ -43,3 +43,9 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 
 
 ## T-Tests on Suspension Coils
+
+![Lot_1](Resources/Lot_1.png)
+
+![Lot_2](Resources/Lot_2.png)
+
+![Lot_3](Resources/Lot_3.png)
