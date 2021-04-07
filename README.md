@@ -35,3 +35,8 @@ For this analysis we use statistics and hypothesis testing to analyze a series o
 
 ![Vehicle_Weight](Resources/Vehicle_Weight.png)
 
+- MPG provided a non-random amount of variance to the mpg values in the dataset
+
+- The linear model is a flat line with a slope of zero.
+
+- In my opinion the linear model does not predict mpg of MechaCar prototypes effectively due to there being no visible correlation between the results of the plots and factors given and the desired output.
