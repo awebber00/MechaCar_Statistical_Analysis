@@ -68,3 +68,6 @@ We would test how safe the MechaCar is versus the compatition. Our null hypothes
 We would use T-Tests to test the hypothesis and guage whether or not the metrics were better in the MechaCar vs. the competition.
 
 The data that we would need to run these tests would be the historical crash test data of the competition and recent crash testing that was performed with the MechaCar.
+
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
